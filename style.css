@@ -77,6 +77,6 @@ button {
 }
 
 button:hover {
-  background-color: rgba(255, 255, 255, 0.678);
+  background-color: #ffffffad;
   color: #7c5f5f;
 }
