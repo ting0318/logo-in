@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Chewy&family=Combo&family=Diplomata+SC&family=Rubik+Moonrocks&family=Sigmar+One&display=swap");
+
+body {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: rgb(0, 0, 0, 0.2);
+  /* 背景混和 */
+  background-blend-mode: multiply;
+  background-image: url(https://images.unsplash.com/photo-1518655048521-f130df041f66?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE2fHxjb21wdXRlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+  background-size: cover;
+  background-position-y: 5%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.container {
+  position: absolute;
+  top:55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(0, 0, 0, 0.1);
+  text-align: center;
+  color: #fff;
+  width: 380px;
+  height: 400px;
+  border-radius: 5px;
+}
+
+h2 {
+  padding: 5px;
+  font-size: 35px;
+  font-family: "Chewy", cursive;
+  font-family: "Combo", cursive;
+  font-family: "Diplomata SC", cursive;
+  font-family: "Rubik Moonrocks", cursive;
+  font-family: "Sigmar One", cursive;
+  letter-spacing: 12px;
+  color: #f3b2be;
+}
+h4 {
+  font-size: 18px;
+}
+
+input {
+  margin-bottom: 30px;
+  margin-right: 5px;
+  padding: 10px 10px;
+  border-radius: 5px;
+  border: none;
+}
+
+span {
+  font-size: 16px;
+}
+
+i {
+  font-size: 16px;
+  padding-bottom: 5px;
+  margin-right: 8px;
+  text-align: center;
+}
+a {
+  color: #ebcbd1c4;
+}
+a:hover {
+  color: #0c146e;
+}
+
+button {
+  border-radius: 5px;
+  border: none;
+  padding: 6px;
+  background-color: #f3b2be;
+  color: #fff;
+}
+
+button:hover {
+  background-color: rgba(255, 255, 255, 0.678);
+  color: #7c5f5f;
+}
