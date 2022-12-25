@@ -5,7 +5,7 @@ body {
   height: 100%;
   padding: 0;
   margin: 0;
-  background-color: rgb(0, 0, 0, 0.2);
+  background-color: #00000033;
   /* 背景混和 */
   background-blend-mode: multiply;
   background-image: url(https://images.unsplash.com/photo-1518655048521-f130df041f66?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE2fHxjb21wdXRlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
