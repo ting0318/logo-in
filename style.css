@@ -59,6 +59,11 @@ input {
 span {
   font-size: 18px
 }
+
+a {
+  color: #114203;
+}
+
 a i{
    padding: 0 15px;
    margin: 0  5px;  
@@ -70,9 +75,7 @@ i {
   margin-right: 8px;
   text-align: center;
 }
-a {
-  color: #114203;
-}
+
 
 button {
   margin-bottom: 10px;
